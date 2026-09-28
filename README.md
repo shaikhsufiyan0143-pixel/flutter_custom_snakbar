@@ -14,6 +14,12 @@ A simple and customizable Flutter package for displaying custom **Toast** and **
 * Simple API
 * Lightweight and easy to use
 
+## Demo
+
+<p align="center">
+  <img src="example/assets/demo.gif" alt="Flutter Custom Snackbar Demo" width="250">
+</p>
+
 ## Installation
 
 Add the package to your `pubspec.yaml`:
