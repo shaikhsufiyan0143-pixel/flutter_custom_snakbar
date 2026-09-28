@@ -211,44 +211,28 @@ flutter_custom_toast/
 
 ## License
 
-This project is licensed under the **MIT License**.
-
+MIT License
+ 
 Copyright (c) 2026 Excelsior Technologies
+ 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+ 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+ 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. 
 
-See the [LICENSE](LICENSE) file for the complete license terms.
 
-## Author
-
-Developed as part of Flutter library development at **Excelsior Technologies**.
-
-````
-
-### One important change before you commit
-
-In the installation section, replace:
-
-```text
-<username>
-````
-
-with the **actual GitHub username/repository URL** your company gives you.
-
-Also keep the license text you posted in the root:
-
-```text
-LICENSE
-```
-
-So your repository will have:
-
-```text
-flutter_custom_toast/
-├── LICENSE
-├── README.md
-├── CHANGELOG.md
-├── pubspec.yaml
-├── lib/
-└── example/
-```
 
 After this, we should do **`flutter analyze` → test the example app → `git status` → first commit**.
